@@ -1,0 +1,31 @@
+.card{
+    margin: 10px;
+}
+
+#divcodigo{
+    background-color: lightgrey;
+}
+
+#divresultado{
+    background-color: lightblue;
+}
+
+#divcodigo, #divresultado{
+    padding: 10px; 
+    margin: 10px; 
+    margin-top: 0px;
+    width: 45%; 
+    display:inline-block;
+    vertical-align: top;
+}
+
+#formulario{
+    padding: 20px;
+}
+
+#mostrarjson, #formresultado{
+    width: 45%;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
